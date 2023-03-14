@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="blog/test/"/>
+      <url>blog/test/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="嘻嘻这里什么都没有"><a href="#嘻嘻这里什么都没有" class="headerlink" title="嘻嘻这里什么都没有"></a>嘻嘻这里什么都没有</h1><p><del>但是有付款码，快v我50</del></p><p><img src="tietie.jpg" alt="给你看我老婆"></p><h2 id="这里是分割线"><a href="#这里是分割线" class="headerlink" title="这里是分割线"></a>这里是分割线</h2><h1 id="试试其他功能"><a href="#试试其他功能" class="headerlink" title="试试其他功能"></a>试试其他功能</h1><mark class="hl-label red">日照</mark> 香炉生<mark class="hl-label purple">紫烟</mark> ，遥看<mark class="hl-label blue">瀑布</mark> 挂前川。飞流直下<mark class="hl-label orange">三千尺</mark> ，疑是<mark class="hl-label pink">银河</mark> 落九天。## 方框>这里是引用<div class="note success modern"><p>这是success的框</p></div><div class="note primary modern"><p>这是primary，但是换了个flat的风格</p></div><div class="note danger modern"><p>危险！</p></div><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><ol><li><p>有序列表：</p><ul><li>无序子列表</li><li>无序子列表</li></ul></li><li><p>有序列表：</p><ul><li>无序子列表</li><li>无序子列表</li></ul></li></ol><h1 id="试试数学格式"><a href="#试试数学格式" class="headerlink" title="试试数学格式"></a>试试数学格式</h1><div class="note success modern"><p>【Goldowsky-Tonelli定理】设$f\in C[a,b]$,且$f$在$[a,b]-S$上可导,且导数几乎处处不小于$0$,则$f$不减.</p></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试页面</title>
       <link href="blog/done/"/>
       <url>blog/done/</url>
